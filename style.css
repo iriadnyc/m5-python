@@ -1,0 +1,10 @@
+header {
+    padding: 10px;
+    border: red 1px solid;
+    display: flex; /* or inline-flex */
+    justify-content: space-between;
+}
+
+.logo img {
+    width: 240px;
+}
